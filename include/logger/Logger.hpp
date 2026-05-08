@@ -4,8 +4,8 @@
 #include <memory>
 #include <string>
 
-#include "ILogSink.hpp"
-#include "LogLevel.hpp"
+#include <ILogSink.hpp>
+#include <LogLevel.hpp>
 
 namespace logger {
 
@@ -48,3 +48,4 @@ public:
 }
 
 // TODO: Estudar conseitos aplicados.
+// TODO: Ver se o namespace se aplica na Game Engine tbm.

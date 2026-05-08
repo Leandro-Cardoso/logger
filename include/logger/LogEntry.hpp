@@ -4,7 +4,7 @@
 #include <chrono>
 #include <optional>
 
-#include "LogLevel.hpp"
+#include <LogLevel.hpp>
 
 namespace logger {
 
